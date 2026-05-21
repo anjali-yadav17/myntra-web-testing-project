@@ -1,10 +1,5 @@
 # Myntra E-Commerce Web Application - End-to-End QA Testing Project
 
-[![Testing Portfolio](https://img.shields.io/badge/QA-Testing%20Portfolio-FF69B4?style=for-the-badge&logo=qa)](https://github.com/)
-[![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)](https://github.com/)
-[![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Passed%20(50+%20Test%20Cases)-blue?style=for-the-badge)](https://github.com/)
-[![Defects Logged](https://img.shields.io/badge/Defects-Logged%20in%20Jira-red?style=for-the-badge)](https://github.com/)
-
 This repository contains a comprehensive, industry-grade **Software Quality Assurance (QA) & Testing Portfolio Project** based on the **Myntra E-Commerce Website**. The project is designed to showcase professional software testing methodologies, including test planning, test scenario identification, test case design, requirement traceability, and defect management. 
 
 It is tailored to demonstrate job-ready manual and automation testing skills for **Software Testing Internships** and **Associate QA Engineer** roles.
